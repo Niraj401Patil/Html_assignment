@@ -17,7 +17,7 @@ if (curDate>=1 && curDate<=12)
      msg="Good afternoon";
 }else
  {
-     msg="Good night sr";
+     msg="Good night sr se";
  }
 
 
