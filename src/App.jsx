@@ -14,7 +14,7 @@ if (curDate>=1 && curDate<=12)
 
 }else if( curDate >=12 && curDate<19)
  {
-     msg="Good afternoon";
+     msg="Good afternoon sss";
 }else
  {
      msg="Good night sr se";
